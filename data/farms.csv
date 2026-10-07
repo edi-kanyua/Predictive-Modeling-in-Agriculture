@@ -1,0 +1,813 @@
+farm_id,county,size_acres,soil_type,irrigated,registration_date
+F-0001,Kakamega,0.6 acres,clay loam,no,29/03/2020
+F0002,Uasin Gishu,11.1,loam,N,2012-05-06
+F0003,Meru,1.0,clay,N,2021-04-14
+F0004,Meru,1.3,Sandy,N,13/11/2008
+F0005,Narok,6.2,clay loam,No,2021-03-29
+F0006,kisumu,4.0,Clay,No,04/12/2015
+F0007,Meru,1.9,loam,No,22/08/2008
+F0008,Uasin Gishu,8.7,clay loam,Yes,2016-10-29
+F0009,Kisumu,4.0,sandy,1,2014-09-07
+F0010,Bungoma,1.7,clay,no,2014-05-04
+F0011,Nakuru,2.7,sandy,N,2014-10-29
+f0012,Bungoma,1.4,sandy,No,2013-10-29
+F0013,Kisumu,1.2,Clay Loam,No,2015-11-13
+F0014,Bungoma,2.5,clay,No,02/05/2009
+F0015,Narok,7.5,sandy,N,08/12/2013
+F0016,Narok,6.6,clay,N,2020-02-07
+F0017,NAROK,4.4,Clay Loam,no,2021-07-09
+F0018,KISUMU,0.5,sandy loam,No,05-Jul-19
+F0019,Meru ,6.8,clay loam,No,11/10/2013
+F0020,Kakamega,1.3,LOAM,N,2014-05-25
+F0021,Machakos,2.7,clay,N,2016-02-02
+F0022,Bungoma,3.8,Sandy Loam,0,2013-01-01
+F0023,Uasin Gishu,2.0 ha,loam,Y,06/09/2011
+F0024,narok,5.4,clay,N,2012-04-23
+F0025,Nakuru,1.6,,no,2011-08-28
+F0026,Nakuru,2.2,clay,No,11/05/2017
+F0027,Kisumu,2.4,loam,N,2009-10-28
+F0028,Uasin Gishu,8.9,clay loam,N,2009-03-28
+F0029,Kakamega,0.8,clay loam,Y,22/10/2019
+F0030 ,Narok,4.1,LOAM,N,11/05/2011
+F0031,Uasin Gishu,9.8,sandy,no,2011-06-26
+F0032,meru,1.7,sandy loam,N,2017-07-31
+F0033,Bungoma,1.4,clay loam,No,18-Jul-13
+F0034,Kakamega,2.5,loam,0,17/09/2014
+F0035,Bungoma,2.2,clay,N,27-Dec-11
+F0036,Kisumu,1.7,loam,N,2015-11-08
+F0037,Kisumu,2.9,Clay,N,2019-08-02
+F0038,Kakamega,2.7,Sandy Loam,No,18/10/2020
+F0039,Uasin Gishu,11.5,clay loam,N,2012-05-25
+F0040,Meru,4.0,clay loam,No,2017-10-15
+F0041,Kakamega,0.6,Sandy Loam,No,2009-10-11
+F0042,Kisumu,2.2,clay,N,2014-11-07
+F0043,MERU,3.6,sandy loam,No,2016-09-15
+F0044,Machakos,6.3,clay,Y,2021-03-01
+F0045,UASIN GISHU,6.9,Clay,No,13/11/2017
+F0046,Kisumu,1.9,,N,2019-07-28
+F0047,Meru,2.1,Sandy Loam,no,31/03/2013
+F-0048,Meru,5.4,clay,N,2013-02-17
+F0049,Nakuru,2.9,sandy loam,N,18/04/2010
+F0050,Machakos,2.5,clay loam,No,2016-11-08
+F0051,Machakos,0.9,clay,N,2017-04-19
+F0052,Kisumu,19.0,sandy loam,N,27/08/2018
+F0053,kakamega,1.4,clay loam,No,07/09/2020
+F0054,Kisumu,0.9 ha,loam,No,2009-03-11
+F-0055,Uasin Gishu,1.6 ha,clay loam,no,16/09/2014
+F0056,Kakamega,1.0,sandy,No,15/04/2021
+F0057,Nakuru,1.3,sandy,N,30/03/2010
+F0058,Uasin Gishu,3.5,clay,No,2009-11-06
+F0059,Bungoma,0.9,sandy,0,09-Feb-12
+F0060,Meru,2.8,sandy-loam,N,2016-08-13
+F0061,bungoma,1.5,clay loam,no,2010-01-29
+F0062,KISUMU,1.6,Clay Loam,No,2017-05-30
+F0063,Meru ,1.8,LOAM,N,13/12/2020
+F0064,Kisumu,2.3,clay loam,No,2018-09-29
+F0065,nakuru,3.3,sandy loam,No,10-Jan-08
+F0066,Kakamega,2.1,loam,0,2013-10-12
+F0067,Kakamega,1.4,loam,No,2020-05-06
+F0068,Nakuru,1.1,clay,No,2009-05-25
+F0069,Uasin Gishu,3.7,clay,Y,2015-01-22
+F0070,Machakos,2.2,loam,No,2017-07-16
+F0071,Bungoma,2.1,clay loam,0,2008-03-17
+F0072,Bungoma,1.1,loam,No,2020-01-14
+F0073,Meru,1.8,loam,N,2012-07-22
+F0074,Kakamega,1.0,loam,N,2008-03-24
+F0075,Narok,7.6,loam,yes,22-May-18
+f0076,Nakuru,5.4,sandy loam,Y,2017-02-12
+F0077,Meru,3.8,clay loam,No,28/02/2019
+F0078,Uasin Gishu,23.3,Clay,No,2012-02-10
+F0079,Nakuru,1.2,sandy loam,0,2020-04-19
+F0080,Nakuru,6.1,clay loam,0,03-Jul-15
+F0081,Meru,1.0,sandy loam,N,2011-08-21
+F0082,Nakuru,11.7,clay loam,0,2018-06-24
+F0083,Kisumu,0.6,sandy loam,no,2011-09-26
+F0084,Nakuru,6.7,clay,No,2020-01-04
+F-0085,Machakos,3.5,clay loam,N,25-Jun-17
+F0086,Bungoma,1.4,Loam,yes,2013-02-13
+F0087,Nakuru,2.6,clay,N,2015-07-03
+F0088,Kisumu,0.7,LOAM,No,2020-11-13
+F0089,Nakuru,5.6,clay,0,31-Jul-11
+F0090,Bungoma,2.8 acres,sandy loam,No,2008-06-01
+F0091,Kisumu,1.9,,Y,2009-11-12
+F0092,KAKAMEGA,2.3,clay loam,0,11/08/2013
+F0093,kakamega,1.3,sandy loam,N,29/01/2021
+F0094,Kakamega,2.3,sandy loam,N,01/01/2011
+F0095,Kisumu,2.9,sandy loam,N,31/03/2016
+F0096,Machakos,1.6,Sandy Loam,N,2010-11-20
+F0097,Uasin Gishu,1.1 ha,clay,No,2019-10-07
+F0098,kisumu,1.7,loam,No,2015-09-05
+F0099,Meru,,LOAM,N,07-Jun-12
+F0100,Meru,1.6 acres,Loam,No,13-Jun-18
+F0101,Kisumu,0.8,Clay Loam,No,2018-08-22
+F0102,Machakos,2.8,Clay Loam,N,2016-02-17
+F0103,Meru,0.6,clay,N,2013-05-14
+F0104,Narok,5.5,sandy loam,0,2010-04-20
+F0105,Kakamega,2.2,Clay Loam,N,2009-09-23
+F0106,Machakos,4.1,sandy loam,No,2018-12-29
+F0107,Bungoma,0.8,clay-loam,N,2014-06-25
+F0108,Machakos,1.2,loam,1,12/10/2015
+F0109,Kisumu,0.8,loam,Y,2011-05-12
+F0110,Machakos,1.8,loam,Y,10/11/2016
+F-0111,Kakamega,1.8,sandy,Yes,2009-08-31
+F0112,Nakuru,4.5,loam,N,29-Sep-19
+F0113,Meru,3.6,loam,No,2019-07-27
+F0114,Kakamega,0.8,Clay,N,2017-10-27
+F0115,Nakuru,3.4,,N,2008-03-04
+F0116,Meru,5.1,clay,Y,2018-05-11
+f0117,Narok,6.6,loam,N,2018-08-07
+F0118,Kakamega,3.0,Clay,No,11/02/2009
+F0119,Nakuru,1.9,clay loam,N,2017-05-02
+F0120,Machakos,2.0,sandy loam,Y,2010-06-04
+F0121,Kisumu,2.2,clay,1,2011-08-07
+F0122,Kisumu,1.8,SANDY LOAM,No,2014-12-22
+F0123,Kisumu ,1.0,loam,no,2016-12-18
+F0124,Kisumu,1.9,clay loam,No,29/01/2019
+F0125,Bungoma,0.9,sandy,No,13/03/2015
+F0126,Kakamega,1.3,loam,0,13-Oct-11
+F0127,Kakamega,1.5,loam,Y,"Jun 02, 2008"
+F0128,machakos,3.6,Sandy Loam,no,2008-12-26
+F0129,Nakuru,2.7,clay loam,N,01-Aug-14
+F0130,Bungoma,1.0 acres,Sandy,No,2017-10-26
+F0131,Narok,7.8,loam,No,2015-10-23
+F0132,Meru,1.2 ha,clay loam,No,06/02/2014
+F0133,Meru,3.9,sandy loam,N,2012-09-22
+F0134,Kisumu,4.4,clay,No,2013-12-02
+F0135,Bungoma,6.5,Loam,No,2014-09-02
+F0136,Bungoma,1.2,clay loam,N,2016-11-05
+F0137,Narok,2.6 acres,loam,N,03/11/2014
+F0138,Kisumu,0.5,clay loam,No,2015-12-26
+F0139,Bungoma ,2.9,Sandy Loam,No,2010-03-10
+F0140,Narok,20.3,sandy loam,N,2017-06-22
+F0141,Nakuru,5.9,loam,No,2012-04-07
+F0142,Kakamega,0.5,,N,26/08/2017
+F0143,Meru,3.6,Loam,1,20-Aug-17
+F0144,Uasin Gishu,32.3,Sandy Loam,No,07/12/2012
+F0145,Kisumu,0.8 acres,loam,Y,2017-06-14
+F0146,Kakamega,2.2,clay-loam,No,2016-09-14
+F0147,Meru,1.1,clay,No,2021-02-10
+F0148,Kakamega,1.3,loam,N,2009-08-18
+F0149,Kisumu,2.9,loam,yes,2015-12-28
+F0150,Meru,2.6,sandy loam,No,2019-10-19
+F0151,Kakamega,0.5,,1,02/09/2010
+F0152,Bungoma,2.7,loam,N,2016-02-16
+F0153,Bungoma,3.3,sandy,N,2014-12-16
+F0154,Narok,6.3 acres,sandy,N,2011-11-17
+F0155,Meru,4.5,Loam,N,2015-07-22
+F0156,Kakamega,0.7,,No,2010-08-13
+F0157,Meru,1.0 ha,clay,No,2019-04-10
+F0158,Kakamega,3.1,sandy loam,No,24/07/2010
+F0159,Kisumu,1.4,loam,N,2020-12-20
+F0160,Nakuru,1.8,clay loam,0,2009-08-25
+F0161,Nakuru,1.5 acres,clay,no,08/06/2014
+F0162,Kakamega,1.7,Clay Loam,0,09/07/2016
+F0163,Narok,14.0,Clay,N,25/09/2014
+F0164,Machakos,4.1,loam,No,26/04/2021
+F0165,Kisumu,1.9,clay loam,N,23/10/2017
+F0166,Uasin Gishu ,3.9,clay loam,N,2015-04-10
+F0167,kisumu,1.4 ha,clay,No,01/11/2014
+F-0168,meru,0.9,clay-loam,No,2010-01-28
+F0169,Bungoma,0.9,loamy,N,2012-08-06
+F0170,Meru,2.1,loam,N,2008-01-27
+F0171,Kisumu,0.9,clay,Y,17/01/2017
+F0172,Uasin Gishu,5.5,CLAY,no,"Jan 20, 2011"
+F0173,Machakos,3.8 acres,clay loam,N,23-Nov-17
+F0174 ,narok,4.3,Clay,No,"Aug 24, 2011"
+F0175,Bungoma,2.5,sandy loam,No,2013-07-22
+F0176,Uasin Gishu,6.5 ha,loamy,N,2010-04-12
+F0177,Bungoma,3.2,sandy,N,"Apr 24, 2019"
+F0178,Kakamega,2.8,sandy loam,No,2010-05-08
+F0179,Uasin Gishu,6.8,sandy loam,No,2021-05-01
+F0180,BUNGOMA,,sandy loam,No,31/03/2018
+F0181,Kisumu,1.0,loamy,No,2017-08-07
+F0182,uasin gishu,14.4,loam,0,2018-09-17
+F0183,Kakamega,4.0,clay loam,0,2021-03-07
+F0184,Kisumu,2.7,clay-loam,N,"Feb 08, 2016"
+F0185,Uasin Gishu,9.1,clay loam,Y,12/03/2014
+F0186,Kakamega,3.9,clay,N,16/03/2019
+F0187,Kisumu,1.7,clay-loam,Y,10/07/2011
+F0188,Bungoma,2.0,sandy loam,No,29/04/2008
+F0189,Kisumu,4.3,loam,N,2020-11-07
+F0190,Machakos,2.3,clay loam,N,2014-04-20
+F0191,Narok,9.9,Sandy,N,2019-11-12
+F0192,kakamega,0.6,CLAY,No,2011-02-20
+F0193,Bungoma,1.9,clay,N,2016-01-13
+f0194,Kakamega,4.7,CLAY LOAM,No,2012-04-16
+F0195,Kisumu,4.6,clay loam,Yes,2009-12-05
+F0196,Kakamega,1.4,clay,N,2017-01-07
+F0197,Narok,5.0,Clay Loam,No,2016-05-26
+F0198,Machakos,5.5,sandy loam,,2010-12-13
+F0199,kakamega,1.7,,N,03/04/2014
+F0200,Meru,2.1,loam,Yes,2009-02-05
+F0201,Uasin Gishu,45.5,clay,Y,2019-11-26
+F0202,Bungoma,5.5 acres,loam,No,2010-08-30
+F0203,Narok,20.9,loam,N,2008-02-06
+F0204,Kakamega,1.5,clay,No,2008-08-31
+f0205,Kisumu,2.7,sandy-loam,No,2017-02-18
+F0206,Kisumu,0.8,sandy loam,N,2020-02-17
+F0207,NAROK,22.3,sandy loam,N,2011-04-19
+F0208 ,Bungoma,1.8,Clay Loam,0,2017-02-02
+F0209,Meru,0.2 ha,loam,N,2010-05-15
+F0210,Kisumu,2.2,loam,Y,2009-11-28
+F0211,Uasin Gishu,2.7,Clay Loam,N,2020-12-08
+F0212,Meru,1.4,Loam,No,20/12/2013
+F0213,Nakuru,4.6,Clay Loam,Yes,2009-04-06
+F0214,Meru,1.0,loamy,No,05-Nov-17
+F0215,Kakamega,1.3,Clay,N,2015-04-19
+F0216,Kisumu,1.5,CLAY,0,2018-11-19
+F0217,Uasin Gishu,5.9,sandy loam,N,15-Jan-09
+F0218,Kakamega,0.6,sandy loam,,2015-09-05
+F0219,machakos,2.0,clay,N,07-Jan-21
+F0220,Kakamega,1.3,sandy loam,no,2014-12-30
+F0221,Uasin Gishu,4.0,,1,2013-06-02
+F0222,Meru,2.0,loam,N,2010-09-30
+F0223,Kisumu,1.3,sandy loam,no,2018-10-03
+F0224,Kakamega,0.5,sandy loam,no,2008-09-26
+F0225,Uasin Gishu,7.9,clay loam,No,2020-06-07
+F0226,Nakuru,1.8,Loam,N,2016-07-16
+F0227,kisumu,1.9,loam,N,2013-06-11
+F0228,Uasin Gishu,4.4,clay loam,No,19/07/2010
+F0229,Uasin Gishu,7.9,Loam,No,"Jan 26, 2013"
+F0230,Meru,0.5,Clay,N,"Oct 05, 2010"
+F0231,Uasin Gishu,2.9,loamy,N,2013-03-01
+F0232,Kisumu,4.4,sandy loam,N,2018-12-22
+F-0233,Kisumu,3.5,loam,No,2019-04-25
+F0234,Uasin Gishu,8.5,clay,No,2019-01-18
+F0235,Meru,1.3,clay loam,no,15/03/2014
+F0236,Meru,1.1,sandy loam,N,2009-02-06
+F0237,KAKAMEGA,0.8,Sandy,N,2012-04-20
+F0238,Narok,4.1,sandy,No,2013-08-04
+F0239,Meru,1.9,sandy loam,no,"Jun 06, 2015"
+F0240,Kakamega,1.5,sandy loam,No,2011-05-20
+F0241,Nakuru,3.0,sandy loam,N,2018-09-14
+F0242,Bungoma,4.0,Sandy Loam,N,27/05/2015
+F0243,Nakuru,5.9,clay loam,N,2012-11-22
+F0244,Meru,0.5,sandy loam,N,"Nov 07, 2010"
+F0245,Kakamega,1.6,sandy,0,20/07/2021
+F0246,Meru,2.1,loam,No,2008-07-30
+F0247,Kakamega,3.5,clay loam,0,2020-09-24
+F0248,Kisumu,1.0,Sandy,N,2011-05-29
+F0249,Kisumu,2.4,sandy,yes,2019-05-06
+F0250,Kakamega,1.5,clay,No,14-Oct-14
+F0251,Nakuru,7.2,loam,No,2012-10-26
+F0252,Meru,1.4,Clay,N,2011-01-01
+F0253,Bungoma,1.2,Loam,yes,2010-03-19
+F0254,Kisumu,1.3,Clay,N,16/03/2016
+F0255,Kakamega,1.8,loamy,0,06/04/2016
+F0256,Nakuru,5.4,clay loam,0,2012-12-30
+F0257,Kakamega,1.5,loam,N,2016-05-30
+F0258,Uasin Gishu,9.8,clay loam,N,29/01/2011
+F0259,Kakamega,0.8,CLAY,No,2018-09-03
+F0260,Uasin Gishu,3.2,loam,0,2019-01-24
+F0261,Bungoma,2.9 acres,loam,No,2012-01-23
+F0262,Bungoma,3.2,loam,No,20/08/2008
+F0263,Meru,0.9,Sandy,N,2016-03-08
+f0264,Machakos,4.9,sandy loam,N,2015-03-19
+F0265,Kakamega,1.0,loam,No,2012-04-02
+F0266,kisumu,2.4,loam,Y,2021-05-26
+F0267,Uasin Gishu,8.0,loam,,27/09/2020
+F0268,Bungoma,2.1,sandy loam,Y,05/08/2021
+F0269,Nakuru,2.5,loam,N,03/10/2009
+F0270,Nakuru,5.6,sandy loam,No,2010-04-20
+F0271,Kakamega,1.1,SANDY LOAM,N,05/07/2011
+F0272,Kakamega,1.4,loam,N,2018-07-03
+F0273,Machakos,16.9,Loam,No,2014-07-20
+F0274,Kisumu ,2.1,clay,N,2015-01-28
+F0275,Narok,1.1 ha,,N,04/01/2021
+F0276,Kisumu,0.6 ha,loam,N,"Aug 02, 2019"
+F0277,Narok ,5.6,Loam,N,30/08/2014
+F0278,Uasin Gishu,6.4,Loam,No,2017-01-18
+F0279,Bungoma,0.8,loam,No,21-May-08
+F0280,Meru,2.0,clay loam,N,27-Aug-09
+F0281,Nakuru,2.8,,N,10/10/2015
+F0282,Kakamega,7.1,clay,N,03/03/2017
+F0283,Kakamega,1.4,sandy,No,24-Sep-15
+F0284,narok,10.2,loam,0,02/09/2010
+F0285,Uasin Gishu,2.7,sandy loam,N,17/02/2014
+F0286,Narok,5.6,loam,No,16-Apr-20
+F0287,Kakamega,2.3,sandy loam,N,"Sep 16, 2010"
+F0288,Uasin Gishu,28.8,loam,no,2014-06-21
+F0289,Bungoma,1.1 ha,clay loam,No,2009-09-23
+F0290,Narok,14.0,sandy loam,No,14-Nov-15
+F0291,Kisumu,2.3,sandy loam,0,31/07/2013
+F0292,Meru,4.6,clay,N,11/11/2016
+F0293,Kisumu,1.9,Clay Loam,0,12-Apr-13
+F0294,Machakos,2.5,clay,Y,2016-01-05
+F0295,Kakamega,0.8,sandy loam,No,"Feb 06, 2011"
+F0296,Bungoma,2.2,clay loam,No,03/07/2017
+F0297,Kisumu,1.1 ha,sandy,yes,"May 28, 2011"
+F0298,Machakos,2.2,clay loam,0,06/07/2015
+F0299,bungoma,0.3 ha,sandy loam,Y,04/03/2020
+F0300,Narok,16.0,clay,N,2021-09-06
+F0301,Kakamega,3.7,,No,2018-08-21
+F0302,Machakos,0.8,Sandy,No,2019-08-30
+F0303,Kisumu,1.8,clay,Y,2014-04-02
+F0304,Kakamega,3.2,Clay Loam,Yes,2015-05-15
+F0305,Nakuru,1.6,sandy loam,No,02/01/2016
+F0306,Meru,2.1,clay loam,N,2017-01-21
+F0307,Uasin Gishu,11.6,Clay Loam,No,29-Oct-12
+F0308,Nakuru,9.0,loam,0,23-Mar-14
+F0309,Kisumu,2.3,clay loam,N,2019-04-18
+F0310,Nakuru,6.2,loam,no,2021-02-08
+F0311,Kisumu,1.4,loam,No,10-Sep-13
+f0312,Kakamega,3.3,sandy loam,No,2017-11-06
+F0313,Kakamega,1.3,sandy,No,"Jun 28, 2017"
+F0314,Kakamega,2.0,Sandy Loam,No,15/04/2019
+F0315,Machakos,2.5,clay,Y,2009-04-28
+F0316,KISUMU,5.9,clay,N,2015-03-23
+F0317,Machakos,5.1 acres,sandy,,2010-09-16
+f0318,Machakos,2.0,,N,2008-12-10
+F0319,Nakuru,3.0,loam,No,01/11/2009
+F0320,Uasin Gishu,9.6,Sandy Loam,No,2016-09-16
+F0321,Machakos,6.3,sandy loam,Y,27/02/2017
+F0322,Uasin Gishu,19.9,loam,Yes,2012-10-06
+F0323,Nakuru,0.8,Clay,No,2013-06-26
+F0324,Machakos,1.5,clay loam,No,2010-09-08
+F0325,Machakos,9.1,loam,N,2013-10-12
+F0326,Kisumu,2.3,loam,Y,2011-06-30
+F0327,Kisumu,3.7,loam,N,2010-01-10
+F0328,Uasin Gishu,2.3,clay loam,N,2016-11-16
+F0329,Kakamega,2.5,Clay Loam,Y,2017-06-08
+F0330,Meru,1.1,loam,N,25/11/2010
+F0331,Nakuru,3.1,clay loam,N,22/07/2015
+F0332 ,Machakos,1.3,loam,,2012-03-06
+F0333,Kakamega,1.5,sandy loam,N,2019-05-30
+F0334,Uasin Gishu,,loam,No,2021-05-25
+F0335,Nakuru,2.5,clay,N,15/03/2014
+F0336,Bungoma,0.6,loamy,N,28/07/2015
+F0337,Uasin Gishu,4.7,SANDY LOAM,N,2020-03-23
+F0338,Uasin Gishu,6.0,Clay,,2018-11-13
+F0339,NAROK,13.5 acres,Sandy Loam,No,2008-12-12
+F0340,Kakamega,4.0,loam,0,01/10/2018
+F0341,Machakos,2.5,Loam,No,2009-03-27
+F0342,Kisumu,1.7,loam,No,2015-07-13
+F0343,Nakuru,1.6,clay,yes,2010-11-27
+F0344,Kakamega,1.8,loam,no,2008-09-12
+F0345,Kakamega,4.0,CLAY LOAM,yes,12/10/2017
+F0346,Kakamega,1.0,LOAM,N,2021-08-18
+F0347,Bungoma,1.3 ha,loam,0,14/05/2015
+F0348,Kakamega,6.6,clay loam,0,2017-10-10
+F0349,Uasin Gishu,5.9,sandy-loam,Yes,2011-02-17
+F0350,Kisumu,3.0,loam,1,28/04/2014
+F0351,Meru,0.9,sandy loam,N,2015-12-12
+F0352,Nakuru,2.6,clay loam,no,13/02/2019
+F0353,Meru,1.0,clay,0,"Aug 21, 2018"
+F0354,Bungoma,2.6,clay loam,0,2018-06-22
+F0355,Machakos,1.5 ha,loam,No,12-Aug-20
+F0356,Narok,9.6,clay loam,N,2020-09-27
+F0357,Kakamega,1.8,Loam,N,2018-03-03
+F0358 ,Kakamega,1.7,sandy,N,2019-05-22
+F0359,Bungoma,1.1 ha,clay,N,23/07/2015
+F0360,Nakuru,11.6,sandy loam,No,27/04/2018
+F0361,Machakos,6.3,clay loam,N,2016-02-23
+F0362,Kisumu,8.1,clay,no,2008-01-18
+F0363,Bungoma,1.0,clay,N,2009-09-12
+F0364,Uasin Gishu,5.1,sandy loam,No,2018-12-02
+F0365,Kisumu,1.2,clay,N,04/08/2010
+F0366,Bungoma,1.8,clay,Y,2020-12-31
+F0367,kakamega,0.5,clay loam,No,22-Aug-11
+F0368,Narok,3.8,sandy,N,2012-10-18
+F0369,Kakamega,1.7 acres,,no,"Nov 13, 2016"
+F0370,Nakuru,2.4,clay loam,No,"Dec 02, 2010"
+F0371,Kakamega,1.4,sandy loam,No,06/03/2017
+F0372,Uasin Gishu,10.8,clay,N,08/11/2008
+F0373,Narok,20.6,Clay,Y,2011-10-13
+F0374,Uasin Gishu,1.7,loam,no,09/07/2010
+F0375,Kisumu,1.4,sandy loam,Yes,2011-09-12
+F0376,Kakamega,0.9,loam,No,01/09/2020
+F0377,Meru ,2.7,,,2012-11-27
+F0378,MACHAKOS,4.4,loam,Y,2020-11-24
+F0379,Uasin Gishu,6.8 acres,Clay Loam,N,2008-05-22
+F0380,Kisumu,2.8,SANDY LOAM,Yes,2018-01-01
+F0381,Kakamega,0.5,sandy,No,2014-03-08
+F0382,Uasin Gishu,9.1,,No,2013-03-20
+F0383 ,Machakos,0.6,Sandy,yes,"Apr 16, 2008"
+F0384,Kisumu,1.7,clay loam,Y,2008-11-12
+f0385,Nakuru,3.5,clay,No,2016-08-10
+F0386,Narok,3.9,loam,No,2016-07-19
+F0387,Machakos,3.7,clay,no,31/05/2010
+F0388,Meru,0.8,CLAY,No,07/05/2015
+F0389,Meru,2.6,loam,no,2014-02-08
+F0390,KISUMU,0.6 ha,Loam,no,05/11/2009
+F0391,Nakuru,0.9,clay loam,No,2019-01-15
+F0392,Nakuru,3.6,Clay Loam,no,2010-09-12
+F0393,Machakos,3.5,sandy loam,Yes,2008-12-20
+F0394,Uasin Gishu,16.5,clay loam,N,25/11/2010
+F0395,Nakuru,10.3,sandy loam,No,26/05/2011
+F0396,Kisumu,3.2,Clay Loam,No,2019-11-25
+F-0397,Nakuru,1.7,loam,No,21/06/2016
+F0398,Uasin Gishu,2.9,loam,No,2016-11-10
+F0399,Uasin Gishu,7.5,sandy loam,Y,2015-02-24
+F0400,Kisumu,2.8,loam,Yes,11-Mar-11
+F-0401,NAROK,22.1,Loam,Yes,2014-12-04
+F0402,narok,20.2,sandy loam,N,2009-02-23
+F0403,Meru ,1.6,loam,No,2013-12-03
+F0404,Narok,5.2,loam,Y,2008-12-20
+F0405,Nakuru,2.3,loam,N,11/07/2017
+F0406,Meru,3.7,loam,0,2015-12-05
+F0407,Machakos,3.7,loam,Yes,2012-06-29
+f0408,Bungoma,2.0,sandy,N,2015-03-08
+F0409,Uasin Gishu,1.7,LOAM,N,2018-10-16
+F0410,Kisumu,1.9,loam,Yes,2016-02-23
+F0411,Meru,3.0,clay,N,2014-05-26
+F0412,narok,2.6,sandy loam,No,2010-03-06
+F0413,Kakamega,0.6,Clay,no,11/08/2021
+F0414,Kisumu,1.3,CLAY,Yes,2012-02-23
+F0415,Machakos,1.8,Sandy Loam,No,2013-01-06
+F0416,Kisumu,0.7,sandy,Y,10/10/2010
+F0417,Machakos,,loam,N,07-Nov-13
+F0418,Narok,6.6,sandy loam,0,24/04/2013
+F0419,Kisumu,3.2,Clay Loam,0,"Oct 09, 2018"
+F0420,Bungoma,1.7,sandy loam,0,"Aug 12, 2012"
+F0421,Uasin Gishu,23.3,clay,0,2013-12-26
+F0422,BUNGOMA,2.4,,N,2011-04-04
+F0423,Narok,,clay,No,13/12/2014
+F0424,Kakamega,1.6,sandy loam,no,2011-05-24
+F0425,Narok,4.9,sandy loam,No,2012-11-20
+F0426,Nakuru,3.4,sandy loam,No,02-Aug-12
+F0427,Kakamega,1.8,clay loam,N,16/06/2015
+F0428,Meru,0.5,loam,0,2009-04-27
+F0429,Uasin Gishu,3.2,sandy,N,2017-06-11
+F0430,Kisumu,6.3,sandy loam,N,18-Jun-15
+F0431,Meru,1.2,Sandy,N,2018-11-29
+F0432,uasin gishu,7.1,sandy,no,2018-11-12
+F0433,Bungoma,1.4,Sandy Loam,0,17-Mar-10
+F0434,Meru,4.0,sandy loam,N,2011-08-12
+F0435,Uasin Gishu,2.7,Clay Loam,No,2013-07-28
+F0436,Narok,15.6,clay loam,No,2011-03-28
+F0437,Bungoma,2.6,sandy,0,2013-08-11
+F0438,Kisumu,0.7,loam,N,2010-09-25
+F0439,Meru,2.4 ha,Loam,N,2009-12-29
+F0440,Nakuru,1.4,sandy loam,N,2016-06-11
+F0441,Meru,1.1,sandy loam,No,2014-04-28
+F0442,UASIN GISHU,3.6,Sandy Loam,0,"Dec 23, 2018"
+F0443,Machakos,2.3,sandy loam,Yes,15/02/2021
+F0444,Kisumu,1.2,sandy,N,2021-02-03
+F0445,Uasin Gishu,3.6,loam,Y,16/01/2016
+F0446,Nakuru,2.6,sandy-loam,No,2013-04-11
+F0447,Narok,4.0,clay,No,2015-01-19
+F0448,Bungoma,1.0,clay,No,01-Jan-11
+F0449,narok,4.8,sandy,No,29-Jul-16
+F0450,Nakuru,7.7 acres,clay loam,0,"Mar 16, 2021"
+F0451,Machakos,1.1,loam,No,2012-01-22
+F0452,Kisumu,2.8,sandy,N,2016-11-28
+F0453,Meru,2.4,Clay,N,2014-06-19
+F0454,Uasin Gishu,2.9,clay loam,N,2018-06-14
+F0455,Bungoma,1.8,clay,0,2016-08-17
+F0456,NAROK,11.4,loam,N,2008-07-08
+F0457,Machakos,4.3,sandy loam,Yes,07/04/2009
+F0458,Nakuru,0.8,loam,Y,2019-07-27
+F0459,Uasin Gishu,5.8,clay,No,2014-10-06
+F0460,Bungoma,6.0,loam,N,2014-04-13
+F0461,Machakos,2.0,Clay,No,2014-08-11
+F0462,Machakos,5.4,loam,no,2017-03-06
+F0463,Meru,1.1,loam,No,2015-12-27
+F0464,bungoma,2.6,clay loam,N,09/09/2015
+F0465,Uasin Gishu,9.1 ha,clay loam,Y,2009-08-31
+F0466,Bungoma,1.9,loam,N,2017-06-03
+F0467,Kisumu,0.9,clay loam,1,2012-09-16
+F0468,Kisumu,1.2,,yes,14/01/2017
+F0469,Uasin Gishu,4.3,CLAY,Yes,2016-02-01
+F0470,Machakos,2.6,Clay Loam,Y,"Jul 30, 2011"
+F0471,Meru,0.6,loam,No,2020-09-24
+F0472,Bungoma,2.1,clay,No,14/12/2017
+F0473,Bungoma,1.7,clay-loam,N,11/04/2019
+F0474,Narok,7.9,sandy loam,No,2009-05-15
+F0475,Machakos,2.3,loam,Y,22/07/2017
+F0476,Kisumu,3.0 acres,sandy loam,N,2020-02-24
+F0477,Kisumu,6.1,clay,no,2017-05-13
+F0478,Meru,4.9,sandy,No,25/04/2018
+F0479,Bungoma,0.5,Clay Loam,N,2016-05-07
+F0480,Meru,0.8,sandy loam,no,2018-03-18
+f0481,Uasin Gishu,10.1,sandy loam,N,2015-05-11
+F0482,Machakos,1.7,loam,Yes,2011-05-14
+F0483,Narok,7.4,sandy loam,,22/12/2017
+F0484,Bungoma ,2.7,clay,N,2015-10-31
+F0485,Kisumu,2.3,sandy,Y,2013-11-01
+F0486,Nakuru,1.1 acres,loam,N,2009-12-27
+F0487,Uasin Gishu,13.3,sandy,No,03/11/2013
+F0488,Narok,3.8,Sandy Loam,0,2010-01-26
+F0489,Kakamega,0.9,loam,No,2008-05-31
+F0490,Kakamega,4.3,sandy loam,No,2017-05-06
+F0491,Bungoma,0.7,sandy loam,No,2016-05-28
+F0492,Machakos,2.1,sandy,0,13/10/2009
+F0493,Machakos,1.6,clay loam,Yes,14/08/2013
+F0494,Meru,0.8,sandy,No,2017-07-03
+F0495,Meru,0.6,,No,2015-01-28
+F0496,Machakos ,3.6,clay-loam,N,2010-08-19
+F0497,Bungoma,1.0,sandy,No,"Jan 10, 2016"
+F0498,Nakuru,5.7,sandy loam,no,2018-09-21
+F0499,Kisumu,2.1,sandy loam,Y,2008-10-12
+F0500,Nakuru,5.4,sandy loam,N,28-Mar-11
+F0501,machakos,5.8,loam,No,2014-06-13
+F0502,Machakos,4.3,sandy-loam,N,28-Nov-13
+F0503,Uasin Gishu,73.0,loam,0,2016-05-10
+F0504,MERU,0.8,Sandy Loam,No,2020-04-19
+F0505,Bungoma,1.3,sandy loam,No,2019-08-29
+F0506,kisumu,3.0,sandy loam,Y,09/05/2021
+F0507,Narok,2.4,sandy,N,2012-01-15
+F0508,Uasin Gishu,2.5,sandy loam,No,09/09/2013
+F0509,Kisumu,4.1,sandy,Yes,19/04/2021
+F0510,Bungoma,1.1,,N,2019-05-27
+F0511,bungoma,1.5,clay,N,10/11/2017
+F-0512,Narok,9.2,clay loam,N,2008-04-28
+F0513,Nakuru,3.5,clay loam,no,08/12/2016
+F0514,Nakuru,3.7,sandy,No,2014-05-29
+F0515,Narok,5.2,clay,No,25/03/2019
+F0516,Kakamega,0.9,loam,N,21/11/2017
+F0517,uasin gishu,13.4,clay loam,No,2015-02-15
+F0518 ,Kakamega,0.5,sandy loam,No,01/06/2021
+F0519,Uasin Gishu,3.7,Sandy Loam,no,26/02/2013
+F0520,Kakamega,1.7,sandy-loam,No,2012-09-27
+F0521,Kakamega,0.8,clay loam,N,08/01/2016
+F0522,Kakamega,2.0,loam,No,2015-08-09
+F0523,Kakamega,0.6,Loam,No,28/09/2008
+f0524,Bungoma,0.6,clay,Y,2008-11-14
+f0525,Kisumu,7.5,loam,0,2020-02-14
+F0526,Uasin Gishu,8.1,loam,no,31/07/2014
+F0527,Nakuru,2.6,clay-loam,No,2021-02-17
+F0528,meru,1.1,clay,No,"Jul 11, 2013"
+F0529,KISUMU,2.2,sandy loam,No,31-Mar-20
+F0530,Nakuru,8.8,loam,No,26-Nov-10
+F0531,Kisumu,2.2,Clay,Y,2009-04-22
+F0532,Uasin Gishu,7.6,Clay,0,2017-04-21
+F0533,Meru,2.0,loam,No,"Jan 20, 2015"
+F0534,Uasin Gishu,7.7,clay loam,No,2019-01-28
+F0535,Kisumu,2.7,loam,Yes,2017-07-07
+F0536,Kakamega,0.6,Clay Loam,N,2014-03-23
+F0537,UASIN GISHU,23.3,loam,N,2019-01-03
+F0538,Nakuru,4.1,loam,,2015-09-22
+F0539,Nakuru,1.8,sandy,N,2019-11-28
+F0540,Kisumu,2.8,clay-loam,No,12/07/2010
+F0541,Kakamega,6.0,loam,No,25/01/2019
+F0542,Uasin Gishu,2.3,,,16/04/2017
+F0543,Bungoma,1.1,clay loam,N,2012-08-11
+F0544,meru,2.0,loam,0,2012-03-22
+F0545,Meru,1.5,Sandy,No,2010-08-20
+F0546,Narok,7.5 acres,sandy loam,No,26/02/2014
+F0547,Machakos,5.5,clay,No,30/03/2012
+F0548,Nakuru,1.5,loam,No,23/05/2013
+F-0549,Uasin Gishu,6.1,Loam,0,2014-06-28
+F0550,nakuru,11.5,Clay,no,2020-05-21
+F0551,Nakuru,3.7,sandy loam,N,2016-09-30
+F0552,kisumu,0.6,Sandy Loam,N,2019-05-29
+F0553,Bungoma,4.8,loam,N,11/02/2015
+F0554,bungoma,0.7,loamy,N,2009-10-20
+F0555,Bungoma,0.5,clay,No,2013-11-08
+F0556,Kisumu,0.8,clay,N,03/01/2016
+F0557,Machakos,1.4,Loam,No,20/12/2010
+F0558,Uasin Gishu,12.2,clay,No,2017-03-23
+F0559,Narok,1.8,clay,no,2015-05-23
+F0560,Kisumu,3.5,clay loam,N,2019-07-09
+F0561,Narok,4.6,clay loam,0,22/08/2019
+F0562,Machakos,4.2,loam,No,2014-11-17
+F0563,Uasin Gishu,9.9,sandy,N,2021-08-09
+F0564,Narok,5.1,loam,No,27/07/2015
+F0565,Kakamega,0.9,,N,18-Jun-12
+F0566,MACHAKOS,2.3,clay loam,N,18/11/2011
+F0567,Meru,3.1,,N,2015-02-03
+F0568,Kakamega,0.2 ha,loam,0,2011-06-03
+F0569,Narok ,12.2,Sandy,No,2017-03-05
+F0570,Narok,6.1,loam,N,2020-04-11
+F0571,Bungoma,0.7,sandy loam,N,27-Feb-13
+F0572,Bungoma,0.7,sandy,0,2014-03-28
+F0573,Kakamega,1.2,sandy loam,N,2008-11-06
+F0574,Uasin Gishu,,sandy loam,no,2014-04-09
+F0575,Bungoma,1.1,clay loam,No,04/03/2016
+F0576,Kakamega,1.9,sandy loam,No,2018-07-04
+F0577,Narok,10.9,loam,No,2016-08-18
+F0578,Kakamega,0.8,Loam,N,29/03/2012
+F0579,NAKURU,1.9,sandy loam,,2016-09-11
+F0580,Uasin Gishu,4.5,loam,no,10/05/2013
+F0581,Kakamega,0.6,SANDY LOAM,N,15/08/2021
+F0582,Kisumu,1.2,sandy loam,No,01/03/2015
+F0583,Kisumu,2.1,Sandy,No,2012-06-06
+F0584,Narok,11.8,sandy,N,"Jan 18, 2012"
+F0585,Bungoma,0.8,clay loam,N,2019-05-21
+F0586,Bungoma,3.0,clay,No,2010-04-12
+F0587,Kakamega,3.7,sandy,N,10/08/2018
+F0588,Narok,5.2,sandy loam,N,2014-03-21
+F0589,Machakos,1.6,clay loam,N,2009-06-09
+F0590,Bungoma,2.7,loam,,31/10/2009
+F0591,Uasin-Gishu,7.0,Clay Loam,No,27/10/2014
+F0592,Machakos,7.0,clay,N,2020-07-08
+F0593,Kisumu,1.6,clay,Yes,2010-08-21
+F0594,Kisumu,3.6,sandy,No,26-Feb-08
+F0595,Uasin Gishu,4.8,sandy loam,No,"Jun 19, 2021"
+F-0596,Uasin Gishu,2.6,clay loam,N,2012-03-31
+F0597,Meru,0.6,loam,N,2016-08-10
+F0598,Meru,6.3,clay loam,No,30/12/2019
+F0599,Bungoma,3.3,sandy,N,2017-09-04
+F0600,Uasin Gishu,2.6,loam,0,"Aug 19, 2009"
+F0601,Kisumu,0.6 ha,sandy loam,Y,2021-01-13
+F0602,Uasin Gishu,3.9 acres,sandy loam,No,15/05/2008
+F0603,Nakuru,2.5,clay,Y,"Jul 15, 2015"
+F0604,KAKAMEGA,2.5,clay,no,2018-02-21
+f0605,Uasin Gishu,6.5,,N,03/07/2016
+F0606,Kakamega,1.0,clay,No,2021-06-22
+F0607,Kakamega,4.1,clay,N,15-Oct-15
+F0608,Bungoma,2.5,clay loam,N,2010-06-06
+F0609,Narok,4.3,clay,N,2015-09-10
+F0610,Bungoma,1.0,Sandy Loam,0,2011-09-07
+F0611,Kisumu,2.1,loam,No,2009-03-16
+F0612,Uasin Gishu,3.8,Clay Loam,No,2012-12-11
+F0613,Meru,4.1,clay loam,N,2013-12-14
+F0614,Nakuru ,3.1,loam,0,2016-03-13
+F0615,Meru,3.8,loam,N,"Oct 02, 2012"
+F0616,nakuru,0.8,loam,,"Dec 30, 2014"
+F0617,Kakamega,0.8,clay loam,0,"Nov 01, 2012"
+F0618,Meru,2.1,clay loam,no,2021-07-05
+F0619,Uasin Gishu,5.7,clay,N,"Apr 08, 2017"
+F0620,Meru,1.9,,No,05/10/2020
+F0621,Meru,0.8,loam,0,09-Apr-09
+F0622,Narok,5.3,Clay,No,02-May-12
+F0623,Kakamega,4.4,clay-loam,No,"Jun 03, 2021"
+F0624,machakos,2.4,Clay,N,"Nov 27, 2013"
+F-0625,Uasin Gishu,1.2,clay loam,N,2021-02-02
+F0626,Kakamega,1.1,sandy loam,0,2020-08-05
+F0627,Kakamega,3.2,clay,Yes,2020-03-28
+F0628,NAROK,5.7,,N,2013-10-17
+F0629,Nakuru,1.7,,0,27-Jun-19
+F0630,Nakuru,1.4,sandy loam,No,2018-01-20
+F0631,Nakuru,4.6,loamy,No,2017-01-27
+F0632,Nakuru,6.4,loam,N,2019-05-27
+F0633,Kisumu,0.5,loam,Y,05/01/2021
+F0634,Nakuru,1.6,Loam,No,30/01/2020
+F0635,Kakamega,0.8,LOAM,N,2012-06-16
+F0636,Bungoma,2.6,loam,1,20/12/2020
+F0637 ,Meru,3.7,sandy loam,N,2016-02-14
+F0638,Machakos,0.7,clay,N,"Feb 03, 2010"
+F0639,Kisumu,1.4,sandy loam,Y,2008-01-25
+F0640,Narok,14.6,sandy loam,,24/11/2013
+F0641,Kakamega,1.2,clay loam,No,2020-11-27
+F0642,Machakos,1.0,Sandy,Yes,2020-04-23
+F0643,machakos,4.6,loam,N,2010-11-16
+F0644,Kisumu,1.4,loam,N,2015-05-29
+F0645,Bungoma,2.7,clay,N,2017-10-20
+F0646,Uasin Gishu,9.0,clay,N,2014-10-27
+F0647,Meru,1.5,loam,No,22/10/2012
+F0648,Uasin Gishu,3.9,clay,no,2010-12-27
+F0649,Narok,3.4,sandy loam,No,01-Sep-21
+F0650,Kakamega,3.0,sandy loam,N,27/06/2013
+f0651,Nakuru,19.0,clay loam,0,2018-02-27
+F0652,Nakuru,1.7 ha,clay loam,No,14-Jul-15
+F0653,Meru,0.5 ha,sandy loam,1,28/12/2010
+F0654,Kisumu,4.2 acres,clay,No,2021-07-18
+f0655,Meru ,4.0,loam,N,"Dec 23, 2012"
+F0656,Meru,0.5,clay,N,2016-09-14
+F0657,Narok,4.9,sandy loam,N,13/01/2012
+F0658,Machakos,1.1,sandy loam,No,2019-09-16
+F0659,Kisumu,1.0,loam,1,2018-04-30
+F0660,Nakuru,2.3,clay,0,2016-04-04
+F0661,Machakos,4.1,loam,No,2016-05-03
+F0662,Meru,0.7,sandy loam,No,2014-07-03
+F0663,MACHAKOS,1.0 ha,clay loam,no,2016-03-14
+F0664,Kakamega,1.1,loam,N,2014-01-25
+F0665,Kakamega,2.2,sandy loam,yes,18-Nov-16
+F0666,Narok,4.0,Loam,No,2012-11-06
+F0667,Kisumu,8.3,loam,No,01/06/2014
+F-0668,Meru,3.0,clay,N,2014-01-19
+F0669,MERU,2.7,sandy loam,no,19/05/2014
+F0670,meru,1.8,Sandy Loam,N,2020-04-11
+F0671,Meru ,5.6,Loam,Y,2010-01-15
+F0672,Nakuru,3.0,loam,No,2011-09-24
+F0673,Narok,6.9,loam,N,17-Dec-11
+F0674,Kisumu,2.5,clay,No,2020-02-28
+F0675,Kakamega ,2.9,Clay,N,2020-11-25
+F0676,Kakamega,1.0,sandy loam,N,2021-05-02
+F0677,Uasin Gishu,7.4,sandy loam,N,2008-11-18
+F0678,Bungoma,1.4,Clay,1,20-Feb-08
+F0679,Kisumu,3.1,Clay Loam,No,2009-05-10
+F0680,Kakamega,0.6,clay loam,N,09-May-13
+F0681,Uasin Gishu,0.8 ha,clay,No,2021-02-06
+F0682,Meru,2.8,loam,no,2011-12-08
+F0683,Nakuru,3.9,clay loam,,2011-02-02
+F0684,Uasin Gishu,5.5,clay,no,2014-07-14
+F0685,KISUMU,0.9,,No,2020-11-21
+F0686,Machakos,2.2,clay loam,N,2015-05-18
+F0687,Nakuru,7.1,sandy,N,24/07/2012
+F0688,Narok,18.5,loam,1,25/05/2009
+F0689,Kisumu,2.5,sandy,No,2014-12-03
+F0690,Kakamega ,3.6,loam,N,21-Oct-17
+F0691,Nakuru,2.1,clay loam,N,01/05/2013
+F0692,Narok,9.6,clay loam,N,"Sep 21, 2013"
+F0693,Narok,4.8,clay,No,12/06/2009
+F0694,UASIN GISHU,4.2,clay loam,,01-May-10
+F0695,Kisumu,2.5,sandy loam,Y,2016-05-29
+F0696,Uasin Gishu,2.8,clay-loam,N,"Oct 14, 2017"
+F0697,Kisumu,0.5,sandy loam,yes,07/03/2017
+F0698,Nakuru,1.4,clay,N,2009-12-25
+F0699,Uasin Gishu,8.8,clay loam,N,27-Jul-18
+F0700 ,Nakuru,3.0,clay,no,"Mar 31, 2008"
+f0701,Meru,3.4,sandy loam,N,18/06/2008
+F0702,Bungoma,2.1,loam,no,08/11/2008
+F0703,Kakamega,1.9,loam,no,2020-03-03
+F0704,Bungoma ,0.6,clay loam,N,11/03/2011
+F0705,Narok,20.7,loamy,N,12-Apr-11
+F0706,Kakamega,1.3 acres,clay loam,N,18/10/2018
+F0707,Kisumu,5.1,,0,2008-03-26
+F0708,UASIN GISHU,7.0,Loam,N,30/01/2019
+F0709,Nakuru,3.5,,No,2018-12-02
+F0710,Meru,0.6,sandy,0,21-Aug-12
+F0711,Uasin Gishu,8.4,loam,No,19-Jul-17
+F0712,Machakos,3.6,Sandy,N,22/12/2008
+F0713,Bungoma,1.0,clay,0,2015-04-22
+F0714,Nakuru,6.9,clay,No,2012-09-10
+F0715,Nakuru,2.0,sandy loam,,24-Oct-09
+F0716,Uasin Gishu,1.4,Clay,N,2016-08-03
+F0717,Meru,9.4,sandy loam,No,22-Dec-10
+F0718,Meru,0.7,loam,no,2008-10-04
+F0719,Nakuru,2.5,loam,No,2018-10-28
+F0720,Uasin Gishu,3.5,loam,N,22/11/2010
+F0721,Nakuru ,5.5 acres,clay,Yes,21-Sep-08
+F0722,Meru,1.9,loam,N,2014-07-10
+F0723,Kakamega,3.3,clay,N,2008-04-06
+F0724,Uasin Gishu,6.4,clay,No,2021-07-16
+F0725,Kisumu,1.7,Loam,N,2018-11-17
+F0726,Uasin Gishu,9.5,clay,no,16/07/2014
+F0727,Bungoma,0.6,loam,No,2020-02-09
+F0728,Kakamega,2.2,CLAY,N,2013-04-21
+F0729,Uasin Gishu,4.5,CLAY LOAM,N,25/12/2020
+F0730,Kakamega,19.0,CLAY LOAM,N,04/08/2016
+F0731,Bungoma,3.9,clay,no,30/07/2019
+F0732,Uasin Gishu,7.0,,N,2018-01-06
+F0733,Meru,0.8,sandy,0,2013-06-16
+F0734,Kakamega ,0.8,loam,0,19/09/2009
+F0735,Kakamega,3.1,clay loam,no,2018-09-18
+F0736,Uasin Gishu ,9.6,sandy loam,0,2019-09-25
+F0737,Nakuru,1.0,sandy-loam,1,27/04/2011
+F0738,nakuru,4.6,loam,No,26/09/2013
+F0739,bungoma,2.8,loam,N,13/09/2009
+F0740,Uasin Gishu,5.0,sandy,0,"Nov 12, 2014"
+F0741,BUNGOMA,1.9,loam,N,"Nov 03, 2011"
+F0742 ,Nakuru,2.2,clay,No,2010-05-14
+F0743,Kisumu,4.2,clay loam,No,2015-06-17
+F0744,Bungoma,2.2,sandy loam,N,09-Apr-21
+F0745,Nakuru,4.3,clay,Y,"Feb 24, 2011"
+F0746,Uasin Gishu,3.8 ha,loam,N,2021-05-14
+F0747,Machakos,1.9,CLAY LOAM,N,16-Jul-10
+F0748,Nakuru,0.6,loam,0,2010-12-27
+F0749,Kisumu,0.9,Clay Loam,no,2009-08-17
+f0750,kisumu,2.7,Clay Loam,N,2010-03-01
+F0751,Uasin Gishu,4.2,clay loam,N,09/02/2013
+F0752,Machakos,3.1,sandy loam,no,2010-08-22
+F0753,Nakuru,4.7,loam,0,2008-08-30
+F0754,Kakamega,1.4,clay loam,no,05/08/2020
+F0755,Uasin Gishu,4.3,sandy loam,N,09/06/2017
+f0756,Nakuru,4.4,loam,N,11/11/2017
+F0757,Nakuru,0.8 ha,Clay Loam,N,25/05/2011
+F-0758,Kakamega,2.2,clay loam,N,2020-12-29
+F0759,Machakos,1.9,loam,N,2013-09-19
+F0760,Kisumu,0.5,loam,No,2009-11-11
+F0761,Nakuru,3.2,clay loam,No,2015-11-30
+F0762,Meru,1.2,clay,N,2012-10-30
+F0763,Uasin Gishu,21.7,clay loam,N,2015-02-23
+F0764,Meru ,2.7,clay loam,No,2016-08-25
+F0765,Kakamega,2.0,sandy loam,N,2019-05-02
+F0766,Nakuru,3.0,sandy loam,No,28/11/2015
+F0767,Kakamega,1.6,clay,No,2018-01-27
+F0768,Uasin Gishu,3.1,clay,N,2010-02-06
+F0769,Nakuru,1.3,clay,N,2012-07-01
+F0770,Machakos,,clay,N,"Oct 25, 2019"
+F0771,Bungoma,3.6,Loam,no,"Sep 10, 2008"
+F0772,Kakamega ,0.7,sandy loam,0,2008-11-08
+F0773,Machakos,1.5,clay,yes,"Jul 02, 2018"
+F0774,Kakamega,0.6,Clay Loam,Y,03/11/2009
+F0775,Uasin Gishu,2.8,loam,No,2008-10-06
+F0776,Narok,9.0,clay,,2012-07-03
+F0777,Uasin Gishu,6.6,Sandy Loam,N,2010-07-20
+F0778,Nakuru,4.4,loam,N,2008-07-27
+F0779,Nakuru,3.0,clay loam,No,2011-01-28
+f0780,Nakuru,6.7,sandy,No,2015-12-12
+F0781,Meru,2.6,loam,No,2013-03-15
+F0782,Uasin Gishu,6.3,loam,,"Jun 16, 2014"
+F0783,kisumu,1.6,Clay,N,22-Jan-13
+F0784,Kakamega,3.8,,N,2021-06-27
+F0785,Kakamega,1.7,clay loam,No,2017-11-19
+F0786,Bungoma,3.0,loam,no,10/09/2015
+F0787,Kakamega,0.8,loam,No,2010-02-17
+F0788,Kakamega,1.0,clay,No,2020-05-04
+F0789,Kakamega,0.8,loam,N,2015-10-22
+F0790,Kisumu,2.2,sandy loam,Yes,2016-09-01
+F0791,Meru,0.6,clay loam,no,08/11/2019
+F0792,Nakuru,2.9,sandy loam,no,2011-12-20
+F0793,Kisumu,2.3,clay loam,,16/06/2018
+f0794,Uasin Gishu,6.7,clay loam,0,2020-11-09
+F0795,Kakamega,0.4 ha,clay loam,N,2016-06-28
+F0796,Meru,3.8 acres,clay,no,2012-04-16
+F0797,Uasin Gishu,2.5,sandy-loam,Yes,2017-01-29
+F0798,Meru,4.4,Clay Loam,no,2008-06-28
+F0799,Kisumu,0.8,loam,N,2018-12-01
+F0800,Kakamega,0.6 ha,Clay Loam,N,2019-10-17
+F0009,Kisumu,4.0,sandy,Yes,2014-09-07
+F0511,Bungoma,1.5,clay,N,"Nov 10, 2017"
+F0176,Uasin-Gishu,16.1,loam,N,2010-04-12
+F0736,Uasin Gishu,9.6,sandy loam,No,2019-09-25
+F0243,Nakuru,5.9,clay loam,No,2012-11-22
+F0765,Kakamega,2.0,sandy loam,N,2019-05-02
+f0541,Kakamega,6.0,loam,No,25-Jan-19
+F0431,Meru,1.2,sandy,N,2018-11-29
+F0085,Machakos,3.5,clay loam,No,2017-06-25
+F0643,Machakos,4.6,loam,No,16/11/2010
+F0256,Nakuru,5.4 acres,clay loam,N,30/12/2012
+F0112,Nakuru,1.8 ha,loamy,no,2019-09-29
