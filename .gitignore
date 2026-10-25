@@ -1,5 +1,7 @@
 *.duckdb
 *.duckdb.wal
+notebooks/
 .ipynb_checkpoints/
 __pycache__/
 .venv/
+

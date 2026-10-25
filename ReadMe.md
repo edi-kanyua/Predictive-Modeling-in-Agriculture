@@ -1,6 +1,6 @@
 **THIS IS AN ONGOING PROJECT!**
 
-# Predictive Modeling for Agriculture: Crop Recommendation
+# Predictive Modeling in Agriculture: Crop Recommendation
 
 ## Business Problem
 
