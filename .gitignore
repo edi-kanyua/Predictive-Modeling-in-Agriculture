@@ -1,7 +1,21 @@
+# DuckDB database: rebuilt by running notebooks.
 *.duckdb
 *.duckdb.wal
+
+# Jupyter
 notebooks/
 .ipynb_checkpoints/
+
+# Python
 __pycache__/
+*.py[cod]
 .venv/
+venv/
+env/
+ 
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
 
